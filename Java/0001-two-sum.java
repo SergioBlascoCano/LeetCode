@@ -1,8 +1,8 @@
 /////////////////////////////////////////////////////////////////////////////////////
 // 0001 - Two Sum
 // Difficulty: EASY
-// Problem: https://leetcode.com/problems/two-sum/description/
-// Submit:  https://leetcode.com/problems/two-sum/submissions/1436598835
+// Exercise: https://leetcode.com/problems/two-sum/description/
+// Solution: https://leetcode.com/problems/two-sum/submissions/1436598835
 /////////////////////////////////////////////////////////////////////////////////////
 
 import java.util.HashMap;
