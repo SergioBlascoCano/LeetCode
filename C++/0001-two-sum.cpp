@@ -2,7 +2,7 @@
 // 0001 - Two Sum
 // Difficulty: EASY
 // Exercise: https://leetcode.com/problems/two-sum/description/
-// Solution:  https://leetcode.com/problems/two-sum/submissions/1436590667
+// Solution: https://leetcode.com/problems/two-sum/submissions/1436590667
 /////////////////////////////////////////////////////////////////////////////////////
 
 #include <vector>
