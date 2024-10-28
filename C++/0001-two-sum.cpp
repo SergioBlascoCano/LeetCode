@@ -1,17 +1,12 @@
 /////////////////////////////////////////////////////////////////////////////////////
-// https://leetcode.com/problems/valid-anagram/description/
-// 0242 - Valid Anagram
+// https://leetcode.com/problems/two-sum/description/
+// 0001 - Two Sum
 // Difficulty: EASY
 /////////////////////////////////////////////////////////////////////////////////////
 
 class Solution {
-
-    /**
-     * @param Integer[] $nums
-     * @param Integer $target
-     * @return Integer[]
-     */
-    function twoSum($nums, $target) {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
         
     }
-}
+};
