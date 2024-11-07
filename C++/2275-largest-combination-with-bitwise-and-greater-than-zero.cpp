@@ -1,5 +1,5 @@
 /////////////////////////////////////////////////////////////////////////////////////
-// 2275 - Add Two Numbers
+// 2275 - Largest Combination With Bitwise AND Greater Than Zero
 // Difficulty: MEDIUM
 // Exercise: https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/description/
 // Solution: https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/submissions/1445719678
