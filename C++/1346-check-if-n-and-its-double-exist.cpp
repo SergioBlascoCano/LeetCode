@@ -1,6 +1,6 @@
 /////////////////////////////////////////////////////////////////////////////////////
 // 1346 - Check If N and Its Double Exist
-// Difficulty: MEDIUM
+// Difficulty: EASY
 // Exercise: https://leetcode.com/problems/check-if-n-and-its-double-exist/description
 // Solution: https://leetcode.com/problems/check-if-n-and-its-double-exist/submissions/1467796196
 /////////////////////////////////////////////////////////////////////////////////////
